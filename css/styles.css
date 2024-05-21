@@ -392,6 +392,14 @@ display: flex;
         background-color: #f4f4fd;
         margin-bottom: 8px;
     }
+    .about-item-head{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+    }
+    .about-item-paragraph{
+        font-weight: 400;
+    }
 }
 /* Section Our Team*/
 .our-team-section{
